@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import Collapse from 'react-bootstrap/Collapse';
 
-import CsvImport from './Components/CsvImport';
+import CsvImport from './components/CsvImport';
 
 import './App.css';
 
